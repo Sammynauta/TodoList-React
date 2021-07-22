@@ -1,3 +1,16 @@
+<h1 align="center"> Projeto To do List </h1>
+
+<hr>
+
+<img src='src/assets/slide.png'>
+
+
+<h3 align="center"> Objetivo do Projeto </h3>
+
+- Construir um aplicativo React Todo List. Aplicando meus conhecimentos em ganchos React (hooks), portanto useEffect, useState e useRef. Logo o usuario deve ser capaz de adicionar, remover, editar e marcar como completo (riscar os itens a fazer).
+
+- NAO SE AJUSTA AOS TAMANHOS DE TELA.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
